@@ -1,0 +1,68 @@
+---
+- summary: |
+    Запуск игры без авторизации на сайте
+  status: pass
+
+- summary: |
+    Проверка регистрации на сайте
+  status: pass
+  
+- summary: |
+    Проверка авторизации на сайте
+  status: pass
+  
+- summary: |
+    Восстановление пароля номер 1
+  status: pass
+  
+- summary: |
+    Восстановление пароля номер 2
+  status: pass
+  
+- summary: |
+    Восстановление пароля номер 3
+  status: pass
+  
+- summary: |
+    Восстановление пароля номер 4
+  status: pass
+  
+- summary: |
+    Создание игровой сессии
+  status: pass
+  
+- summary: |
+    Проверка поисковой строки 
+  status: pass
+  
+- summary: |
+    Проверка вкладок
+  status: pass
+  
+- summary: |
+    Выбор звука
+  status: pass
+  
+- summary: |
+    Чат 
+  status: pass
+  
+- summary: |
+    Проверка поисковой строки 
+  status: pass
+  
+- summary: |
+    Негативное тестирование регистрации номер 1
+  status: pass
+  
+- summary: |
+    Негативное тестирование регистрации номер 2
+  status: pass
+  
+- summary: |
+    Негативное тестирование регистрации номер 3
+  status: fail
+  
+- summary: |
+    Негативное тестирование авторизации номер 1
+  status: pass
